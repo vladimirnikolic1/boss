@@ -1,5 +1,4 @@
 # Boss
-add Boss
 
 ![Image](documentation/image0.png)
 
@@ -12,6 +11,8 @@ Boss has the following axe:
   Tag | Default | Static Instances
 --- | --- | ---
   wght | 400 | Regular
+
+![Image](documentation/image1.png)
 
 ## License
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
